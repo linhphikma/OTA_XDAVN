@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
-        <bacon>
-            <Filename>ResurrectionRemix-M-v5.6.8-20160502-ef52l</Filename>
+        <ef52l>
+            <Filename>ResurrectionRemix-M-v5.6.8-20160503-ef52l</Filename>
             <RomUrl
                 id="rom"
                 title="Rom RR A870"
-                description="Download ResurrectionRemix XDAvn builds">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/bacon/ResurrectionRemix-M-v5.6.8-20160502-ef52l.zip</RomUrl>
+                description="Download ResurrectionRemix XDAvn builds">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/bacon/ResurrectionRemix-M-v5.6.8-20160503-ef52l.zip</RomUrl>
             <KernelUrl
                 id="kernel"
                 title="Kernel"
@@ -23,6 +23,6 @@
             	id="open_gapps"
             	title="Open Gapps"
             	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
-	</bacon>
+	</ef52l>
     </Stable>
 </SlimOTA>
