@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <ls990>
+            <Filename>BlurOS-Release-v1.0-20160525-ls990</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download BlurOS builds">http://bit.ly/1Xqt5mf</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://xdavn.com</ChangelogUrl>
+            <BanksGappsUrl
+            	id="gapps"
+            	title="Gapps"
+            	description="Download BaNkS latest GApps">http://download.dirtyunicorns.com/files/gapps/banks_gapps/BANKS_GAPPS_6.XX.zip</BanksGappsUrl>
+	</ls990>
+    </Stable>
+</SlimOTA>
