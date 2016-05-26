@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <ls990>
-            <Filename>BlurOS-Release-v1.0-20160525-ls990</Filename>
+            <Filename>BlurOS-Release-v1.0-20160527-ls990</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
