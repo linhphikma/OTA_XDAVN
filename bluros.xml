@@ -28,12 +28,12 @@
             <Filename>BlurOS-Release-v1.0-20160529-ef52l.zip</Filename>
             <RomUrl
                 id="rom"
-                title="Cảm ơn bạn đã sử dụng dịch vụ"
-                description="XDA Việt Nam Test Thông báo Update OTA">http://xdavn.com</RomUrl>
+                title="ROM"
+                description="Mời tải rom mới>https://drive.google.com/file/d/0B9Y426HPuDmNbEUwVFNKWVZ3dUU/view?usp=sharing</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Những thay đổi"
-                description="Xem thêm những thay đổi tại đây">http://xdavn.com/bluros-base-android.f125/</ChangelogUrl>
+                description="Sửa một số lỗi nhỏ và việt hóa ổn định hơn">http://xdavn.com/bluros-base-android.f125/</ChangelogUrl>
             <OpenGappsUrl
                 id="open_gapps"
                 title="OpenGApps"
