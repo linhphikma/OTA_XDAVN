@@ -25,23 +25,23 @@
             	description="Download BaNkS latest GApps">http://download.dirtyunicorns.com/files/misc/misc/BANKS_GAPPS_6.XX.zip</BanksGappsUrl>
 	</bullhead>
 	<ef52l>
-            <Filename>BlurOS-Release-v1.0-20160528-ef52l.zip</Filename>
+            <Filename>BlurOS-Release-v1.0-20160529-ef52l.zip</Filename>
             <RomUrl
                 id="rom"
-                title="Rom"
-                description="XDA Việt Nam xdavn.com cập nhật sửa lỗi cho Sky A870">http://xdavn.com</RomUrl>
+                title="Cảm ơn bạn đã sử dụng dịch vụ"
+                description="XDA Việt Nam Test Thông báo Update OTA">http://xdavn.com</RomUrl>
             <ChangelogUrl
                 id="changelog"
-                title="Changelog"
+                title="Những thay đổi"
                 description="Xem thêm những thay đổi tại đây">http://xdavn.com/bluros-base-android.f125/</ChangelogUrl>
             <OpenGappsUrl
                 id="open_gapps"
                 title="OpenGApps"
-                description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
+                description="Download latest OpenGApps">http://xdavn.com</OpenGappsUrl>
             <BanksGappsUrl
             	id="banks_gapps"
-            	title="BaNkS Dynamic GApps"
-            	description="Download BaNkS latest GApps">http://download.dirtyunicorns.com/files/misc/misc/BANKS_GAPPS_6.XX.zip</BanksGappsUrl>
+            	title="GApps"
+            	description="Download BaNkS latest GApps">http://xdavn.com</BanksGappsUrl>
 	</ef52l>
 	<jfltetmo>
             <Filename>BlurOS-Release-v1.0-20160520-jfltetmo</Filename>
