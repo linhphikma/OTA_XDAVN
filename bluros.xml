@@ -1,35 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
-        <bullhead>
-            <Filename>BlurOS-Release-v1.0-20160520-bullhead.zip</Filename>
-            <BuildsUrl
-            	id="builds"
-            	title="LatestBuild"
-            	description="Download Latest Build">https://basketbuild.com/uploads/devs/resurrectionremix/bullhead/BlurOS-Release-v1.0-20160520-bullhead.zip</BuildsUrl>
-	     <RomUrl
-                id="rom"
-                title="Rom"
-                description="Download ResurrectionRemix Nexus 5X builds">https://s.basketbuild.com/devs/resurrectionremix/bullhead</RomUrl>
-            <ChangelogUrl
-                id="changelog"
-                title="Changelog"
-                description="View Changelog">http://xdavn.com/bluros-base-android.f125/</ChangelogUrl>
-            <OpenGappsUrl
-                id="open_gapps"
-                title="OpenGApps"
-                description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
-            <BanksGappsUrl
-            	id="banks_gapps"
-            	title="BaNkS Dynamic GApps"
-            	description="Download BaNkS latest GApps">http://download.dirtyunicorns.com/files/misc/misc/BANKS_GAPPS_6.XX.zip</BanksGappsUrl>
-	</bullhead>
 	<ef52l>
             <Filename>BlurOS-Release-v1.0-20160601-ef52l.zip</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
-                description="Cập nhật bản Build 01/06 mới ">https://drive.google.com/file/d/0B9Y426HPuDmNcU1hWEJiZ1dBM1k/view?usp=sharing</RomUrl>
+                description="Cập nhật bản Build 01/06 mới">https://drive.google.com/file/d/0B9Y426HPuDmNcU1hWEJiZ1dBM1k/view?usp=sharing</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Những thay đổi"
@@ -43,47 +20,5 @@
             	title="GApps"
             	description="Download BaNkS latest GApps">http://xdavn.com</BanksGappsUrl>
 	</ef52l>
-	<ls990>
-            <Filename>BlurOS-Release-v1.0-20160531-ls990.zip</Filename>
-            <RomUrl
-                id="rom"
-                title="Patch Fix Dolby"
-                description="Mời bạn tải bản patch sửa lỗi Dolby">http://forum.xda-developers.com/devdb/project/dl/?id=13100&task=get</RomUrl>
-            <ChangelogUrl
-                id="changelog"
-                title="changelog"
-                description="no">http://xdavn.com/bluros-base-android.f125/</ChangelogUrl>
-            <OpenGappsUrl
-                id="open_gapps"
-                title="gapps"
-                description="no"></OpenGappsUrl>
-            <BanksGappsUrl
-            	id="banks_gapps"
-            	title=""
-            	description="Download BaNkS latest GApps"></BanksGappsUrl>
-	</ls990>
-	 <h815>
-            <Filename>BlurOS-Release-v1.0-20160528-h815.zip</Filename>
-            <BuildUrl
-            	id="build"
-            	title="LatestBuild"
-            	description="Download Latest Build">https://basketbuild.com/uploads/devs/resurrectionremix/falcon/BlurOS-Release-v1.0-20160520-falcon.zip</BuildUrl>
-            <RomUrl
-                id="rom"
-                title="Rom"
-                description="Mời bạn tải về phiên bản mới của BlurOS khắc phục hơn 100 lỗi và tối ưu hệ thống cho LG G4">https://basketbuild.com/devs/falcon</RomUrl>
-            <ChangelogUrl
-                id="changelog"
-                title="Changelog"
-                description="View Changelog">http://xdavn.com/bluros-base-android.f125/</ChangelogUrl>
-            <SlimGappsUrl
-            	id="slim_gapps"
-            	title="Slim GApps"
-            	description="Download Slim latest GApps">https://www.androidfilehost.com/?w=files&amp;flid=41043</SlimGappsUrl>
-             <BanksGappsUrl
-            	id="banks_gapps"
-            	title="BaNkS Dynamic GApps"
-            	description="Download BaNkS latest GApps">http://download.dirtyunicorns.com/files/misc/misc/BANKS_GAPPS_6.XX.zip</BanksGappsUrl>
-	</h815>
     </Stable>
 </SlimOTA>
