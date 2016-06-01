@@ -51,12 +51,12 @@
                 description="Mời bạn tải bản patch sửa lỗi Dolby">http://forum.xda-developers.com/devdb/project/dl/?id=13100&task=get</RomUrl>
             <ChangelogUrl
                 id="changelog"
-                title=""
-                description="">http://xdavn.com/bluros-base-android.f125/</ChangelogUrl>
+                title="changelog"
+                description="no">http://xdavn.com/bluros-base-android.f125/</ChangelogUrl>
             <OpenGappsUrl
                 id="open_gapps"
-                title=""
-                description=""></OpenGappsUrl>
+                title="gapps"
+                description="no"></OpenGappsUrl>
             <BanksGappsUrl
             	id="banks_gapps"
             	title=""
