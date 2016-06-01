@@ -25,15 +25,15 @@
             	description="Download BaNkS latest GApps">http://download.dirtyunicorns.com/files/misc/misc/BANKS_GAPPS_6.XX.zip</BanksGappsUrl>
 	</bullhead>
 	<ef52l>
-            <Filename>BlurOS-Release-v1.0-20160527-ef52l.zip</Filename>
+            <Filename>BlurOS-Release-v1.0-20160601-ef52l.zip</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
-                description="Hôm nay sẽ cập nhật phụ cho phiên bản Sky A870 sửa lỗi hao pin trên một số máy, Nếu bạn nào còn dùng bản rom này xin vui lòng thông báo cho mọi người biết nhé">http://xdavn.com</RomUrl>
+                description="Cập nhật bản Build 01/06 mới ">https://drive.google.com/file/d/0B9Y426HPuDmNcU1hWEJiZ1dBM1k/view?usp=sharing</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Những thay đổi"
-                description="Sửa một số lỗi nhỏ và việt hóa ổn định hơn">http://xdavn.com/bluros-base-android.f125/</ChangelogUrl>
+                description="Sửa lỗi hao pin cho một số máy, Sửa lỗi tùy biến, Sửa lỗi mày dồng hô, Sửa lỗi FC Đồng hồ,......Cài thẳng luôn không cần wipe">http://xdavn.com/bluros-base-android.f125/</ChangelogUrl>
             <OpenGappsUrl
                 id="open_gapps"
                 title="OpenGApps"
