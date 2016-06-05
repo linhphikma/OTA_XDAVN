@@ -20,5 +20,24 @@
             	title="GApps"
             	description="Download BaNkS latest GApps">http://xdavn.com</BanksGappsUrl>
 	</ef52l>
+	<ef51>
+            <Filename>BlurOS-Release-v1.0-20160605-ef51.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="ROM"
+                description="Cập nhật bản Build 05/06 mới">http://xdavn.com</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Những thay đổi"
+                description="Sửa lỗi Bị reboot hoặc sập nguồn khi Screen Off">http://xdavn.com/</ChangelogUrl>
+            <OpenGappsUrl
+                id="open_gapps"
+                title="OpenGApps"
+                description="Download latest OpenGApps">http://xdavn.com</OpenGappsUrl>
+            <BanksGappsUrl
+            	id="banks_gapps"
+            	title="GApps"
+            	description="Download BaNkS latest GApps">http://xdavn.com</BanksGappsUrl>
+	</ef51>
     </Stable>
 </SlimOTA>
