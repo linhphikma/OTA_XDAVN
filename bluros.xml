@@ -2,15 +2,15 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
 	<ef52l>
-            <Filename>BlurOS-Release-v1.0-20160601-ef52l.zip</Filename>
+            <Filename>BlurOS-Release-v1.0-20160606-ef52l.zip</Filename>
             <RomUrl
                 id="rom"
-                title="ROM"
-                description="Cập nhật bản Build 01/06 mới">https://drive.google.com/file/d/0B9Y426HPuDmNcU1hWEJiZ1dBM1k/view?usp=sharing</RomUrl>
+                title="Patch nhỏ"
+                description="Tải patch cập nhật ngày 06/06">https://drive.google.com/file/d/0B96askX1KHI0WDRLU0VmbnJ3S3c/view?usp=sharing</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Những thay đổi"
-                description="Sửa lỗi hao pin cho một số máy, Sửa lỗi tùy biến, Sửa lỗi mày dồng hô, Sửa lỗi FC Đồng hồ,......Cài thẳng luôn không cần wipe">http://xdavn.com/bluros-base-android.f125/</ChangelogUrl>
+                description="Sửa lỗi thông báo đè đồng hồ, Đồng bộ màu Network trafcic và tối ưu Recents">http://xdavn.com/bluros-base-android.f125/</ChangelogUrl>
             <OpenGappsUrl
                 id="open_gapps"
                 title="OpenGApps"
