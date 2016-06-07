@@ -20,6 +20,24 @@
             	title="GApps"
             	description="Download BaNkS latest GApps">http://xdavn.com</BanksGappsUrl>
 	</ef52l>
-
+	<f460>
+            <Filename>BlurOS-Release-v1.0-20160607-f460.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Patch nhỏ"
+                description="Tải patch cập nhật ngày 07/06">https://drive.google.com/file/d/0B96askX1KHI0NkhwQXpiNFlEOGc/view?usp=sharing</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Những thay đổi"
+                description="Sửa lỗi thông báo đè đồng hồ, Đồng bộ màu Network trafcic và tối ưu Recents">http://xdavn.com/bluros-base-android.f125/</ChangelogUrl>
+            <OpenGappsUrl
+                id="open_gapps"
+                title="Forums"
+                description="xdavn.com">http://xdavn.com</OpenGappsUrl>
+            <BanksGappsUrl
+            	id="banks_gapps"
+            	title="Diễn đàn"
+            	description="XDA Việt Nam">http://xdavn.com</BanksGappsUrl>
+	</f460>
     </Stable>
 </SlimOTA>
